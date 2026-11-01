@@ -45,7 +45,7 @@ Chuỗi năm lần hỏi "vì sao", ghi đủ từng lớp.
 4. Vì sao ai cũng nghĩ chỉ cần gom lại là xong? → Vì nhóm thiếu kinh nghiệm làm việc theo quy trình tích hợp và quá tự tin vào phần việc cá nhân.
 5. Vì sao nhóm lại chủ quan và thiếu quy trình kiểm soát? → Trưởng nhóm và các thành viên chưa thiết lập tư duy "làm việc trên một hệ thống chung", thiếu vai trò Integrator (người kiểm soát tích hợp) và quy định kiểm tra chéo định kỳ từng ngày (nguyên nhân gốc).
 
-*Người viết phần này: Lê Hồng Phi*
+*Người viết phần này: Ngô Thừa Chí*
 
 ### 4. Ba giải pháp đã thử
 
@@ -127,7 +127,7 @@ Nhóm đã có một trận cãi nhau rất căng thẳng vào tối thứ Ba (n
 
 **Bài học rút ra:** Không bao giờ tranh luận khi đang mệt mỏi/căng thẳng. Khi có sự cố, không hỏi "Tại sao bạn làm sai?" mà hãy bình tĩnh nói chuyện tìm phương án khắc phục chung.
 
-*Người viết phần này: Bùi Trọng Hiếu*
+*Người viết phần này: Huỳnh Minh Kha & Bùi Trọng Hiếu*
 
 ## Tôi đã làm việc với AI thế nào
 
